@@ -1,5 +1,5 @@
 # Analyzing-Students-Mental-Health-in-SQL (Guided by DataCamp)
-*In this project, I use Postgre SQL to examine if international students are more likely to have mental difficulties such as depression, social connectedness, acculturative stress than the general population and if the lenghth of stay is a contributing factor.*
+*In this project, I use SQL to examine if international students are more likely to have mental difficulties such as depression, social connectedness, acculturative stress than the general population and if the lenghth of stay is a contributing factor.*
 ## Questions to address:
 1. Does international students face a higher risk of having mental dificulties than the general population?
 2. Does the length of stay contribute to the possibility of them having mental difficulties?
